@@ -51,3 +51,6 @@ Future research could expand the analysis to include a wider range of stocks and
 ## Contact
 
 For any inquiries or contributions, please contact [@daniel-alpizar](https://github.com/daniel-alpizar) or open an issue on this repository.
+
+![Hedging_Strategies](assets/options_ml_poster.png)
+
